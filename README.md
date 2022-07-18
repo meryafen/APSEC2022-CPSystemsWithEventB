@@ -1,1 +1,7 @@
-# APSEC2022-CPSystemsWithEventB
+# A Formal Approach for Modeling and Verifying Hybrid Systems using Event-B and a Differential Equation Solver
+
+## Notations
+![Cover](https://github.com/meryafen/APSEC2022-CPSystemsWithEventB/blob/main/SCP_Notations.jpg)
+
+## The generic models
+[he Event-B generic models (Pdf sources)](https://github.com/meryafen/APSEC2022-CPSystemsWithEventB/blob/main/GenericModel.pdf)
